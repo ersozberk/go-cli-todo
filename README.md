@@ -23,7 +23,7 @@ A fast, dependency-free command-line interface tool built with Go. This project 
 ├── go.mod                # Go module and dependency declarations
 ├── .gitignore            # Files ignored by Git
 └── README.md             # Project documentation
-
+```
 
 ## 🛠 Installation and Usage
 
@@ -37,7 +37,7 @@ To clone the repository and run the code directly without building:
 git clone [https://github.com/ersozberk/go-cli-todo.git](https://github.com/ersozberk/go-cli-todo.git)
 cd go-cli-todo
 go run cmd/todo-getir/main.go --id=5
-
+```
 
 ## Building for Production
 To compile the Go code into a standalone, executable binary:
@@ -45,7 +45,7 @@ To compile the Go code into a standalone, executable binary:
 ```bash
 # Compile the project
 go build -o todo-getir cmd/todo-getir/main.go
-
+```
 # Execute the binary
 ./todo-getir --id=12
 (Optional) Move the executable to your system path to run it from anywhere (Linux/macOS):
@@ -53,7 +53,7 @@ go build -o todo-getir cmd/todo-getir/main.go
 ```bash
 sudo mv todo-getir /usr/local/bin/
 todo-getir --id=42
-
+```
 ## 🧠 Learning Outcomes
 
 This project serves as a foundational exercise in mastering Go, focusing on:
