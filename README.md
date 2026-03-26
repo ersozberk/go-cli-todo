@@ -1,5 +1,8 @@
 # 🚀 Go REST CLI: Todo Fetcher
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ersozberk/go-cli-todo/edit/master/README.md)
+[![pt-br](https://img.shields.io/badge/lang-tr-green.svg)](https://github.com/ersozberk/go-cli-todo/edit/master/README-tr.md)
+
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
